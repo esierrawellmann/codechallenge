@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Code Challenge</string>
+    <string name="flag_endpoint">https://www.countryflags.io/be/flat/</string>
+    <string name="xoom_api"></string>
 </resources>
